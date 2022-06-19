@@ -22,3 +22,4 @@ int main(){
 		printf("Empréstimo aprovado\n");
 	}
 }
+
