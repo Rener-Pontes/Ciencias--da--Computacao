@@ -27,4 +27,4 @@ int main() {
 	if ((n3 < n1) && (n3 < n2)){
 		printf("O menor número é %d\n", n3);
 	}
-	}
+}
