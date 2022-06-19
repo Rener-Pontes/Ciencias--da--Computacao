@@ -22,5 +22,5 @@ int main() {
 	horas_extras = valor_hora + (valor_hora * 0.5);
 	salario_bruto = salario_mes + dependentes + horas_extras;
 	
-	printf("Seu salário é R$ %.2f\n", salario_bruto);
+	printf("Seu salário é R$ %.2f\n", salario_bruto); 
 }
