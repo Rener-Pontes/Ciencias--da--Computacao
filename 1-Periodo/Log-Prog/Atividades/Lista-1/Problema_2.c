@@ -5,6 +5,7 @@
 int main(){
     int metros;
     
+    printf("Digite o valor, em metros, que deseja transformar: ");
     scanf("%d", &metros);
     printf("%d milimetros", metros * 1000);
 }
